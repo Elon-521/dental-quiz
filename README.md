@@ -9,3 +9,5 @@
 - 学习记录保存在浏览器本地，不上传作答数据
 
 打开 `index.html` 即可使用。GitHub Pages 发布后可直接手机访问。
+
+在线地址：https://elon-521.github.io/dental-quiz/
